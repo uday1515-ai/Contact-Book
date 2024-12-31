@@ -130,6 +130,7 @@ o	Delete contacts
 o	Save and load contacts from a pickle file (to persist data across sessions)
 
 Sample Interaction:
+
 --- Contact Book ---
 1. Add Contact
 2. View Contacts
@@ -143,6 +144,7 @@ Enter name: Uday Todmal
 Enter phone: 8208703115
 Enter email: udaytodmal007@gmail.com
 Contact for Uday Todmal added successfully.
+
 
 --- Contact Book ---
 1. Add Contact
