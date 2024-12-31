@@ -29,14 +29,17 @@ Key Features:
 •  Upon restarting, the program can load the previously saved contacts, ensuring that data persists across sessions.
 
 Team members:
+
 1)Uday Todmal
 2)Rushikesh Yadav
 3)Pratik Sangale
 
 Project Phases:
+
 Developing a Contact Book application follows a structured approach that ensures the final product is functional, user-friendly, and efficient. Below are the typical project phases involved in the development of a Contact Book project:
 
 1. Planning and Requirements Gathering
+
 Objective: Understand the project goals, define the scope, and gather detailed requirements.
 Tasks:
 •	Define the Purpose: Understand the need for the contact book (e.g., managing personal or business contacts).
@@ -47,6 +50,7 @@ Tasks:
 •	Timeline and Milestones: Set a project timeline with key milestones (e.g., requirements finalization, development completion, testing phase).
 
 2. System Design
+
 Objective: Plan the architecture, data structure, and user interface for the application.
 Tasks:
 •	Architecture Design: Decide on the overall structure of the application (e.g., modular design with separate components for contact management, file handling, and user interface).
@@ -55,6 +59,7 @@ o	Design the flow of information between components (e.g., adding, editing, and 
 •	Data Structure Design: Plan how contact information will be stored in memory (e.g., a dictionary, list, or class-based structure) and how data will be serialized and saved.
 
 3. Development
+
 Objective: Implement the features and functionality of the Contact Book application.
 Tasks:
 •	Set Up Development Environment: Set up necessary tools, libraries, and development environments (e.g., Python, Pickle/JSON).
@@ -70,6 +75,7 @@ o	Implement functionality to save contacts to a file (Pickle/JSON) and load them
 •	Data Validation: Ensure user input is validated (e.g., phone number format, email format).
 
 4. Testing
+
 Objective: Ensure the application is functioning as expected and meets the requirements.
 Tasks:
 •	Unit Testing: Test individual functions and components to ensure they work as intended (e.g., adding a contact, searching for contacts).
@@ -78,6 +84,7 @@ Tasks:
 •	Error Handling: Test how the application handles edge cases (e.g., invalid inputs, empty fields, or file loading errors).
 
 5. Deployment
+
 Objective: Prepare the Contact Book for release and make it available for users.
 Tasks:
 •	Final Code Cleanup: Ensure all code is clean, efficient, and free of bugs. Document the code to ensure others can maintain it.
@@ -86,6 +93,7 @@ Tasks:
 •	Release to Users: Provide users with instructions on how to install and use the application. For example, upload the executable to a website or share it through other means.
 
 6. Maintenance and Updates
+
 Objective: Continuously improve the application by fixing bugs, adding new features, and enhancing performance.
 Tasks:
 •	Bug Fixing: Address any issues or bugs reported by users after the application is released.
@@ -94,6 +102,7 @@ Tasks:
 •	Security Updates: If sensitive data is stored, implement security measures like encryption, password protection, or data anonymization.
 
 Technical Requirements:
+
 These describe the specific tools, technologies, and systems needed to implement the Contact Book:
 1.	Programming Language:
 o	Python is commonly used for developing a contact book due to its simplicity and readability.
