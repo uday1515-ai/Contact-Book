@@ -193,6 +193,7 @@ Sample Interaction:
 5. Delete Contact
 6. Save Contacts
 7. Exit
+
 Enter your choice: 1
 Enter name: Uday Todmal
 Enter phone: 8208703115
@@ -208,6 +209,7 @@ Contact for Uday Todmal added successfully.
 5. Delete Contact
 6. Save Contacts
 7. Exit
+
 Enter your choice: 2
 
 Name: Uday Todmal , Phone: 8208703115, Email:udaytodmal007@gmail.com
