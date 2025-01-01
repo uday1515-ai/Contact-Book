@@ -154,8 +154,6 @@ o	Alternatively, you could use other programming languages depending on your pre
 
 o	Pickle: For serializing Python objects (like the contact dictionary) and saving them to a file.
 
-o	JSON: For storing contacts in a human-readable format. It’s easier to modify manually and can be used across different programming languages.
-
 o	Text Files: For storing plain text contact data, though this may be less structured and harder to scale.
 
 3.	Data Validation:
