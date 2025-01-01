@@ -56,7 +56,6 @@ Tasks:
 
 •	Set Project Scope: Outline the features and functionality that will be included in the first version of the application.
 
-•	Timeline and Milestones: Set a project timeline with key milestones (e.g., requirements finalization, development completion, testing phase).
 
 2. System Design
 
