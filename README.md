@@ -41,7 +41,9 @@ Developing a Contact Book application follows a structured approach that ensures
 1. Planning and Requirements Gathering
 
 Objective: Understand the project goals, define the scope, and gather detailed requirements.
+
 Tasks:
+
 •	Define the Purpose: Understand the need for the contact book (e.g., managing personal or business contacts).
 •	Identify Stakeholders: Determine who will be using the application (e.g., individual users, businesses) and gather feedback on their needs.
 •	List Functional Requirements: Define key features such as adding, viewing, editing, searching, and deleting contacts.
@@ -52,7 +54,9 @@ Tasks:
 2. System Design
 
 Objective: Plan the architecture, data structure, and user interface for the application.
+
 Tasks:
+
 •	Architecture Design: Decide on the overall structure of the application (e.g., modular design with separate components for contact management, file handling, and user interface).
 o	Determine how data will be stored (e.g., using files like Pickle/JSON or a database).
 o	Design the flow of information between components (e.g., adding, editing, and deleting contacts).
@@ -61,6 +65,7 @@ o	Design the flow of information between components (e.g., adding, editing, and 
 3. Development
 
 Objective: Implement the features and functionality of the Contact Book application.
+
 Tasks:
 •	Set Up Development Environment: Set up necessary tools, libraries, and development environments (e.g., Python, Pickle/JSON).
 •	Core Features Implementation:
@@ -77,7 +82,9 @@ o	Implement functionality to save contacts to a file (Pickle/JSON) and load them
 4. Testing
 
 Objective: Ensure the application is functioning as expected and meets the requirements.
+
 Tasks:
+
 •	Unit Testing: Test individual functions and components to ensure they work as intended (e.g., adding a contact, searching for contacts).
 •	Integration Testing: Test how different components of the application interact with each other (e.g., adding a contact should reflect in the contact list, and saved contacts should load correctly).
 •	Usability Testing: Test the user interface to ensure it is intuitive and easy to navigate. For example, ask potential users to interact with the app and provide feedback.
@@ -86,6 +93,7 @@ Tasks:
 5. Deployment
 
 Objective: Prepare the Contact Book for release and make it available for users.
+
 Tasks:
 •	Final Code Cleanup: Ensure all code is clean, efficient, and free of bugs. Document the code to ensure others can maintain it.
 •	Packaging: If applicable, package the application into an executable file (e.g., using PyInstaller for Python) or prepare the source code for distribution.
@@ -95,7 +103,9 @@ Tasks:
 6. Maintenance and Updates
 
 Objective: Continuously improve the application by fixing bugs, adding new features, and enhancing performance.
+
 Tasks:
+
 •	Bug Fixing: Address any issues or bugs reported by users after the application is released.
 •	Feature Enhancements: Based on user feedback, add new features to improve functionality (e.g., exporting contacts to CSV, implementing backups).
 •	Performance Optimization: Optimize the application for better performance, especially if the contact list grows.
